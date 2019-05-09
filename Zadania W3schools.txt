@@ -1,0 +1,5 @@
+1. Wypisz nazwy oraz ³¹czn¹ kwotê dostarczanych produktów, dla dostawców których produkty kosztuj¹ ³¹cznie ponad 100.
+
+2. Wypisz alfabetycznie miasta w których mieszkaj¹ zarówno klienci jak i dostawcy produktów.
+
+3. Wypisz przedstawicieli klientów którzy nie s¹ ze Stanów Zjednoczonych, s¹ z miast w przedziale od Barcelony do Londynu oraz ich imiê zaczyna siê na a oraz koñczy na b.
